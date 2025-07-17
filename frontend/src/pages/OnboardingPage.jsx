@@ -189,4 +189,4 @@ const OnboardingPage = () => {
     </div>
   );
 };
-export default OnboardingPage;
+export default OnboardingPage; 
